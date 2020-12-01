@@ -56,3 +56,14 @@ var secondaryEmail: String?
 var daysUntilNextTrip: Int?
 
 // ...
+
+daysUntilNextTrip = 7
+
+//Can change back to nil
+
+daysUntilNextTrip = nil
+
+//Cannot change a non optional to nil
+
+//Need to check if the variable actually has a value when using the variable within a calculation
+
