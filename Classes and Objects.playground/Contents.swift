@@ -1,4 +1,4 @@
-// Definining and Instantiating classes
+va// Definining and Instantiating classes
 
 class Appliance {
     //properties
